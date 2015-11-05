@@ -1,18 +1,17 @@
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Changelog for package strands_navfn
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Changelog for package param_loader
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 0.0.21 (2015-04-27)
 -------------------
 
+0.0.20 (2015-04-22)
+-------------------
+* add simple package to dyn reconfigure move_base via yaml files
+* Contributors: Bruno Lacerda
+
 0.0.19 (2015-04-10)
 -------------------
-* prepare for release
-* removing navfn maintainers so they dont get spammed by our errors
-* added missing strands_navfn
-* reading default_tolerance param before generating global plans
-* adding  copy of navfn package, with lots of strands_* prefixes to avoid conflicts with navfn
-* Contributors: Bruno Lacerda
 
 0.0.18 (2015-03-28)
 -------------------
